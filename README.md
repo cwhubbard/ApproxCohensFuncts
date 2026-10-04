@@ -1,2 +1,2 @@
-These functions are meant to be compatible with Matlab and Python to help researchers generate Cohen's d values from summary statistics in-text (mean, SEM [SD], N). I've added Cohen's d from mean and 95 and 99% confidence intervals; however, these functions underestimate the effect size.
+These functions are meant to be compatible with Matlab and Python to help researchers generate Cohen's d values from summary statistics in-text (mean, SEM [SD], N). I've added Cohen's d from mean and 95 and 99% confidence intervals; however, these functions underestimate the effect size. Also, I've added a function that will provide an Area Under the Curve value from a Cohen's D.
 Written By Cody W. Hubbard
